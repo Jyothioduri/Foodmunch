@@ -1,0 +1,91 @@
+
+.bg-img1{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height:100vh;
+    text-align: center;
+    color: white;
+}
+.button1{
+    color:white;
+    background-color: rgb(210, 167, 58);
+    border-radius: 8px;
+    width:130px;
+    height:50px;
+    border: none;
+}
+.button2{
+    color: rgb(210, 167, 58) ;
+    border-radius: 8px;
+    border-color:rgb(210, 167, 58);
+    width:130px;
+    height:50px;
+    background-color: transparent;
+    margin-left: 15px;
+}
+
+.why-choose-us{
+    text-align:center;
+    border-radius: 8px;
+    border-color:rgb(231, 229, 229);
+    border-style:solid;
+    border-width: 1px;
+    padding-top: 20px;
+    padding-bottom:20px;
+}
+
+.food-headings{
+    font-size: 25px;
+    font-weight:400;
+}
+
+.headings{
+    color:rgb(0, 0, 86);
+    font-weight: 100px;
+    font-size:30px;
+}
+
+.images{
+    padding-top: 15px;
+    width:240px;
+    border-radius: 15px;
+}
+
+.box-shadow{
+width: 270px;
+height:340px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+border-radius:8px;
+padding-left:15px;
+margin-bottom: 40px;
+}
+
+.thanks-card{
+    background-color:rgb(248, 243, 232);
+}
+
+.follow-card{
+    background-color: rgb(242, 231, 199);
+    border-radius: 40px;
+    width:80px;
+    height:80px;
+    margin:15px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-left:22px;
+    padding-bottom:15px;
+}
+
+.icon{
+    color: rgb(234, 174, 7);
+    font-size: 37px;
+}
+
+.address-card{
+    background-color: #0c2334;
+    color:gray;
+    font-size:10px;
+    text-align:center;
+    padding-top:40px;
+    padding-bottom:40px;
+}
